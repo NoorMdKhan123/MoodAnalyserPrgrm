@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodApp", "MoodApp.csproj", "{ABD4494C-4CF4-42BD-BC10-B204B697E2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAppMSTest", "..\MoodAppMSTest\MoodAppMSTest.csproj", "{9A02EC5A-A272-4BDB-A503-0C22C437D43C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD4494C-4CF4-42BD-BC10-B204B697E2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD4494C-4CF4-42BD-BC10-B204B697E2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD4494C-4CF4-42BD-BC10-B204B697E2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD4494C-4CF4-42BD-BC10-B204B697E2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A02EC5A-A272-4BDB-A503-0C22C437D43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A02EC5A-A272-4BDB-A503-0C22C437D43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A02EC5A-A272-4BDB-A503-0C22C437D43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A02EC5A-A272-4BDB-A503-0C22C437D43C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {924DB8D4-BED3-4945-B97C-934583773FF6}
+	EndGlobalSection
+EndGlobal
