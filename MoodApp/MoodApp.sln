@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodApp", "MoodApp.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAppMSTest", "..\MoodAppMSTest\MoodAppMSTest.csproj", "{9A02EC5A-A272-4BDB-A503-0C22C437D43C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoodAnalayserSolution", "..\..\MoodAnalayserFinalSolution\MoodAnalayserSolution\MoodAnalayserSolution.csproj", "{3EEA6748-87A8-48A1-9838-1E549953B983}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoodAnalyserMSTestSolution", "..\..\MoodAnalayserFinalSolution\MoodAnalyserMSTestSolution\MoodAnalyserMSTestSolution.csproj", "{A68C45D9-2A60-4C9B-9DE3-AEA2AB5C3591}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9A02EC5A-A272-4BDB-A503-0C22C437D43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A02EC5A-A272-4BDB-A503-0C22C437D43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A02EC5A-A272-4BDB-A503-0C22C437D43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEA6748-87A8-48A1-9838-1E549953B983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEA6748-87A8-48A1-9838-1E549953B983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEA6748-87A8-48A1-9838-1E549953B983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEA6748-87A8-48A1-9838-1E549953B983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68C45D9-2A60-4C9B-9DE3-AEA2AB5C3591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68C45D9-2A60-4C9B-9DE3-AEA2AB5C3591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68C45D9-2A60-4C9B-9DE3-AEA2AB5C3591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68C45D9-2A60-4C9B-9DE3-AEA2AB5C3591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
